@@ -37,7 +37,6 @@ This project was developed as part of a study on procedural content generation f
 ### Como rodar | How to run
 
 ```bash
-git clone https://github.com/seu-usuario/rpg-texto-procedural.git
 cd rpg-texto-procedural
 python main.py  # ou python3 main.py
 ```
