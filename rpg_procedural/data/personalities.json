@@ -1,0 +1,26 @@
+{
+  "impulsivo": {
+    "frases": [
+      "Rápido! Temos que lidar com {topico} agora!",
+      "Sem pensar duas vezes: {topico}!"
+    ]
+  },
+  "meticuloso": {
+    "frases": [
+      "Vamos analisar calmamente o caso de {topico}.",
+      "Tudo indica que devemos planejar melhor sobre {topico}."
+    ]
+  },
+  "desconfiado": {
+    "frases": [
+      "Algo me diz que {topico} não é o que parece.",
+      "Cuidado... {topico} pode ser uma armadilha."
+    ]
+  },
+  "neutro": {
+    "frases": [
+      "Precisamos lidar com {topico}.",
+      "Vamos tratar de {topico}."
+    ]
+  }
+}
