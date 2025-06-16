@@ -127,4 +127,5 @@ This project is open-source under the MIT license.
 ## 👥 Autores | Authors
 
 Gabriel Franklin Martins Lazzarini Miranda  https://www.linkedin.com/in/gabriel-franklin-martins-lazzarini-miranda-816030209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQuzjzewFSq%2B1nYoYU%2BAkag%3D%3D
+
 João Pedro de Lollo Bissoli  https://www.linkedin.com/in/joao-pedro-de-lollo-bissoli-0939a8232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6cNB5uAOSaeXkrSiADVe2w%3D%3D
